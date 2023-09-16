@@ -9,6 +9,8 @@ __pycache__
 *.uuid
 *.conf
 *.db
+*.db-shm
+*.db-wal
 *.db-journal
 *.log
 *.noload
@@ -53,3 +55,4 @@ dlib_unknown_faces
 .pc-session
 google*.deb
 .homekit.state
+healthcheck
